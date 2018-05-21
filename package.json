@@ -26,6 +26,7 @@
     "passport-jwt": "^4.0.0",
     "pg": "^7.4.1",
     "pg-hstore": "^2.3.2",
+    "react-web3": "^0.4.5",
     "sequelize": "^4.37.6",
     "sequelize-cli": "^4.0.0",
     "validator": "^9.4.1"
